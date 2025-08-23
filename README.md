@@ -72,6 +72,6 @@ employee-attrition-prediction/
    ```
    streamlit run app/app.py
    ```
-   ##Author
+## Author
    
    SALMA SAID
