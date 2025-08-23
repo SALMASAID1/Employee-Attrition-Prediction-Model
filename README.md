@@ -29,8 +29,7 @@ employee-attrition-prediction/
 │   └── utils.py                   # Helper functions (scaling, metrics, etc.)
 │
 ├── app/                           # Streamlit app
-│   ├── app.py                     # Main Streamlit dashboard
-│   └── assets/                    # Images, logos, css files if needed
+│   └── app.py                     # Main Streamlit dashboard
 │
 ├── requirements.txt               # Python dependencies
 ├── .gitignore                     # Ignore venv, data, models (if needed for GitHub)
@@ -73,3 +72,5 @@ employee-attrition-prediction/
    ```
    streamlit run app/app.py
    ```
+   ##Author
+SALMA SAID
